@@ -1,0 +1,14 @@
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\UnitTestProject\bin\Debug\UnitTestProject.dll
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\UnitTestProject\bin\Debug\UnitTestProject.pdb
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\UnitTestProject\bin\Debug\DishSample.exe
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\UnitTestProject\bin\Debug\DishSample.pdb
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\UnitTestProject\obj\Debug\UnitTestProject.dll
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Famoranbini\Documents\Misc\DishSample\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Famoranbini\Documents\Misc\DishSample\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Famoranbini\Documents\Misc\DishSample\UnitTestProject\bin\Debug\DishSample.exe
+C:\Users\Famoranbini\Documents\Misc\DishSample\UnitTestProject\bin\Debug\DishSample.pdb
+C:\Users\Famoranbini\Documents\Misc\DishSample\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Famoranbini\Documents\Misc\DishSample\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Famoranbini\Documents\Misc\DishSample\UnitTestProject\obj\Debug\UnitTestProject.pdb

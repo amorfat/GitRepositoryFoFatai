@@ -1,0 +1,11 @@
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\DishSample\bin\Debug\DishSample.exe.config
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\DishSample\bin\Debug\DishSample.exe
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\DishSample\bin\Debug\DishSample.pdb
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\DishSample\obj\Debug\DishSample.exe
+c:\users\intel\documents\visual studio 2012\Projects\DishSample\DishSample\obj\Debug\DishSample.pdb
+C:\Users\Famoranbini\Documents\Misc\DishSample\DishSample\bin\Debug\DishSample.exe.config
+C:\Users\Famoranbini\Documents\Misc\DishSample\DishSample\obj\Debug\DishSample.exe
+C:\Users\Famoranbini\Documents\Misc\DishSample\DishSample\obj\Debug\DishSample.pdb
+C:\Users\Famoranbini\Documents\Misc\DishSample\DishSample\bin\Debug\DishSample.exe
+C:\Users\Famoranbini\Documents\Misc\DishSample\DishSample\bin\Debug\DishSample.pdb
+C:\Users\Famoranbini\Documents\Misc\DishSample\DishSample\obj\Debug\DishSample.csprojResolveAssemblyReference.cache
